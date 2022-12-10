@@ -5,9 +5,6 @@ import itertools as it
 from selenium.webdriver import Chrome, ChromeOptions
 from selenium.webdriver import Firefox, FirefoxOptions
 from selenium.webdriver import Remote, DesiredCapabilities
-from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
-
 from webdriver_manager.chrome import ChromeDriverManager
 from webdriver_manager.firefox import GeckoDriverManager
 
